@@ -1,5 +1,5 @@
 # php-Fucntion-
-PHP Function 
+<b>PHP Function</b> 
 
 According to the PHP Function Part, There are main 2 type of functions
 <br>
