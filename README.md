@@ -9,7 +9,18 @@ They are,<br><br>
 
 
 *****************************************
+<br>
+How to create a function,<br>
 
+      function fun_name(){
+         //content of function
+      }
+      
+if are there any parameters<br>
+
+      function fun_name(parameters){
+         //content of function
+      }
 
 
 
