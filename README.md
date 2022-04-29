@@ -1,6 +1,15 @@
 # php-Fucntion-
 PHP Function 
 
+According to the PHP Function Part, There are main 2 type of functions
+<br>
+
+
+
+
+
+*****************************************
+
 <b>code explain</b>
 
 index.php
