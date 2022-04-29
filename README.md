@@ -55,4 +55,9 @@ so, above code part i call for the function named 'print_name()'. <br>
 
 fucntion.php
 <br>
+            <?php
+                function print_name(){
+                    echo "JehanKandy";
+                }
+            ?>
 
