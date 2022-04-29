@@ -40,4 +40,9 @@ in first 3 lines
       
 include the fucntion.php file, because the fuctions is in the function.php<br>
 
-
+          <?php
+          // the funnction is create in fuction.php file
+              print_name();
+          ?>
+          
+so, above code part i call for the function named 'print_name()' <br>
