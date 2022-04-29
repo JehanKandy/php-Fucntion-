@@ -22,7 +22,6 @@ index.php
 
       <h1>Table</h1>
           <?php
-
           // the funnction is create in fuction.php file
               print_name();
           ?>
