@@ -45,4 +45,14 @@ include the fucntion.php file, because the fuctions is in the function.php<br>
               print_name();
           ?>
           
-so, above code part i call for the function named 'print_name()' <br>
+so, above code part i call for the function named 'print_name()'. <br>
+<br><br><br><br>
+
+
+*************************
+
+
+
+fucntion.php
+<br>
+
