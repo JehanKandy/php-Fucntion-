@@ -3,7 +3,7 @@
 
 According to the PHP Function Part, There are main 2 type of functions,
 <br>
-They are,<br>
+They are,<br><br>
 1.User Define Functions<br>
 2.Inbuild Fuctions<br>
 
