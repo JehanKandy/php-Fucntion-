@@ -61,5 +61,12 @@ fucntion.php
               echo "JehanKandy";
           }
       ?>
+      
+      
+in the above code<br>
+I create PHP function using 'function print_name()'.<br>
+<br>
+and the I echo (print) name : jehankandy
+
 
 
