@@ -1,9 +1,11 @@
 # php-Fucntion-
 <b>PHP Function</b> 
 
-According to the PHP Function Part, There are main 2 type of functions
+According to the PHP Function Part, There are main 2 type of functions,
 <br>
-
+They are,<br>
+1.User Define Functions<br>
+2.Inbuild Fuctions<br>
 
 
 
