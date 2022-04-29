@@ -38,5 +38,7 @@ in first 3 lines
       <?php
           include("function.php");
       ?>
+      
+include the fucntion.php file, because the fuctions is in the function.php<br>
 
 
