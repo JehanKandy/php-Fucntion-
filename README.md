@@ -30,3 +30,13 @@ index.php
 
       </body>
       </html>
+
+According to above code
+<br>
+in first 3 lines
+
+      <?php
+          include("function.php");
+      ?>
+
+
